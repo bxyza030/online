@@ -1,0 +1,133 @@
+body {
+    background-color: #eeeae7;
+  }
+  
+  h1 {
+    text-align: left;
+  }
+
+  nav a
+{
+   font-family: 'Work Sans', sans-serif;
+   font-size: 30px;
+   color: #223021;
+   text-decoration: none;
+   font-weight: bold;
+   margin-right: 30px;
+   margin-left: 30px;
+}
+
+hr {
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
+.header {
+  color: #223021;
+  font-family: 'Lato', sans-serif;
+  font-size: 100px;
+  text-align: left;
+  font-weight:bolder;
+  text-indent: 50px;
+  padding-top: 50px;
+  margin:0%;
+  
+
+}
+.paragraph {
+  color: #223021;
+  font-family: 'lato', sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  text-indent: 50px;
+}
+  
+.p1 {
+  color: #223021;
+  font-family: 'lato',sans-serif;
+  font-size: 15px;
+  text-indent: 50px;
+  }
+  
+  .p2 {
+    color: #223021;
+    margin-top: 100px;
+    font-family: 'lato',sans-serif;
+    font-size: 40px;
+    text-indent: 50px;
+    font-weight:900;
+    }
+
+    .p3 {
+      font-size: 20px;
+      font-family: 'lato',sans-serif;
+      font-weight:lighter;
+      padding-left: 50px;
+
+     
+    } 
+
+#div1 {
+  color: #223021;
+  margin-top: 25px;
+  font-size: 30px;
+  font-family: 'lato',sans-serif;
+  text-indent: 50px;
+  font-weight: bold;
+}
+
+    #div2 {
+      width:50%;
+      float: right
+      
+    }
+
+    .p4 {
+      color: #223021;
+      text-indent: 50px;
+      font-size: 25px;
+      font-family: 'lato',sans-serif;
+      font-weight:bolder;
+      margin: 0px;
+      padding: 0px;
+    }
+
+      .p5 {
+       
+        font-family: 'lato', sans-serif;
+        font-size: 15px;
+        font-weight: lighter;
+        text-indent: 50px;
+      }
+  
+  .p6 {
+    color: #223021;
+    text-indent: 50px;
+    font-family: 'lato', sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+   }
+
+
+   h2 {
+    font-size: 17px;
+   font-family: 'lato',sans-serif;
+   font-weight: lighter;
+   margin-left: 50px;
+  }
+
+  p7{
+    
+    font-family: 'lato', sans-serif;
+    font-size: 15px;
+    font-weight: medium;
+    padding-bottom: 40px;
+    padding-top: 50px;
+  }
+
+  
